@@ -69,7 +69,7 @@ class Widgets extends AsyncJavaScript
 	 * Initialize the twttr variable to attach ready events before JS loaded
 	 *
 	 * @see WP_Scripts::print_extra_script()
-	 * @link https://dev.twitter.com/web/javascript/loading Twitter Widgets JS async loading snippet
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/javascript-api/guides/scripting-loading-and-initialization Twitter Widgets JS async loading snippet
 	 *
 	 * @since 1.3.0
 	 *

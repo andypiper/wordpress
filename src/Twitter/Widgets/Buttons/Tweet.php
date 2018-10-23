@@ -30,7 +30,7 @@ namespace Twitter\Widgets\Buttons;
  *
  * @since 1.0.0
  *
- * @link https://dev.twitter.com/web/tweet-button Tweet button documentation
+ * @link https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview Tweet button documentation
  */
 class Tweet extends \Twitter\Widgets\Base
 {

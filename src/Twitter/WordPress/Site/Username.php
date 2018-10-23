@@ -41,8 +41,7 @@ class Username
 	 *
 	 * @since 1.0.0
 	 *
-	 * @link https://dev.twitter.com/cards/markup#twitter-site Twitter Card site attribution
-	 * @link https://dev.twitter.com/cards/analytics Twitter Card analytics
+	 * @link https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/markup Twitter Card site attribution
 	 *
 	 * @param int|string|bool|null $post_id WP_Post->ID, false response of get_the_ID, proprietary post ID, or null if outside of a post context or no post ID found
 	 *
@@ -80,7 +79,7 @@ class Username
 	 *
 	 * @since 1.0.0
 	 *
-	 * @link https://dev.twitter.com/web/tweet-button/web-intent#tweet-web-intent-via Tweet Web Intent via parameter
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/web-intents/overview Tweet Web Intent via parameter
 	 *
 	 * @param int|string|null $post_id WP_Post->ID, proprietary post ID, or null if outside of a post context or no post ID found
 	 *

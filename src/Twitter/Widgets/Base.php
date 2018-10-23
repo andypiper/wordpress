@@ -38,7 +38,7 @@ abstract class Base
      *
      * @since 1.0.0
      *
-     * @link https://support.twitter.com/articles/20169421 About tailored suggestions
+     * @link https://help.twitter.com/en/using-twitter/tailored-suggestions About tailored suggestions
      *
      * @type bool
      */

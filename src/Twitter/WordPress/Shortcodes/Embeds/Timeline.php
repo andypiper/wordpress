@@ -271,7 +271,7 @@ trait Timeline
 	 *
 	 * @since 2.0.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-timelines/oembed embedded timelines oEmbed
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/oembed-api embedded timelines oEmbed
 	 *
 	 * @param string $id               datasource ID
 	 * @param array  $query_parameters oEmbed API query parameters

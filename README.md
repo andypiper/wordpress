@@ -30,10 +30,6 @@ Add an [embedded profile timeline](https://github.com/twitter/wordpress/wiki/Emb
 
 Add an [embedded list timeline](https://github.com/twitter/wordpress/wiki/Embedded-List-Timeline) to your site by URL, using the `[twitter_list]` shortcode macro, or adding a widget to your theme's widget area.
 
-### Twitter search
-
-Add an [embedded search timeline](https://github.com/twitter/wordpress/wiki/Embedded-Search-Timeline) to your site using the `[twitter_list]` shortcode macro or adding a widget to your theme's widget area.
-
 ### Collection
 
 Display a [Twitter collection](https://github.com/twitter/wordpress/wiki/Embedded-Collection-Timeline) by URL, using the `twitter_collection` shortcode macro, or adding widget to a theme's widget area.

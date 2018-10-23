@@ -30,7 +30,7 @@ namespace Twitter\Widgets;
  *
  * @since 1.0.0
  *
- * @link https://dev.twitter.com/rest/reference/get/help/languages list of supported languages
+ * @link https://developer.twitter.com/en/docs/developer-utilities/supported-languages/api-reference/get-help-languages list of supported languages
  */
 class Language
 {

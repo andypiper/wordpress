@@ -530,7 +530,7 @@ class Tweet implements \Twitter\WordPress\Shortcodes\ShortcodeInterface, \Twitte
 	 *
 	 * @since 2.0.0
 	 *
-	 * @link https://dev.twitter.com/rest/reference/get/statuses/oembed oEmbed doc
+	 * @link https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/get-statuses-oembed oEmbed doc
 	 *
 	 * @param string $id               Tweet ID
 	 * @param array  $query_parameters oEmbed API query parameters

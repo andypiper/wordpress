@@ -22,7 +22,6 @@ Embed Twitter content by pasting a URL, customizing a shortcode, or in a widget 
 * [single Tweet with video template](https://github.com/twitter/wordpress/wiki/Embedded-Video "single Tweet with video embed")
 * [profile timeline](https://github.com/twitter/wordpress/wiki/Embedded-Profile-Timeline "Twitter embedded profile timeline")
 * [list timeline](https://github.com/twitter/wordpress/wiki/Embedded-List-Timeline "Twitter embedded list timeline")
-* [search timeline](https://github.com/twitter/wordpress/wiki/Embedded-Search-Timeline "Twitter embedded search timeline")
 * [collection](https://github.com/twitter/wordpress/wiki/Embedded-Collection-Timeline "Twitter embedded collection")
 * [Moment](https://github.com/twitter/wordpress/wiki/Moments "Twitter embedded Moment")
 

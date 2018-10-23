@@ -30,7 +30,7 @@ namespace Twitter\Intents;
  *
  * @since 1.0.0
  *
- * @link https://dev.twitter.com/web/tweet-button/web-intent
+ * @link https://developer.twitter.com/en/docs/twitter-for-websites/web-intents/overview
  */
 class Tweet
 {

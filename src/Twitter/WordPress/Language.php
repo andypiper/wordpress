@@ -47,7 +47,7 @@ class Language extends \Twitter\Widgets\Language
 		 *
 		 * @since 1.0.0
 		 *
-		 * @link https://dev.twitter.com/web/overview/languages supported languages
+		 * @link https://developer.twitter.com/en/docs/twitter-for-websites/twitter-for-websites-supported-languages/overview supported languages
 		 * @see \Twitter\Widgets\Language::$SUPPORTED_LANGUAGES
 		 *
 		 * @param string $locale locale returned by get_locale()

@@ -108,7 +108,7 @@ class Generator
 		 *
 		 * @since 1.0.0
 		 *
-		 * @link https://dev.twitter.com/cards/types Twitter Card types
+		 * @link https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards Twitter Card types
 		 *
 		 * @param string           $card_type  Twitter Card type
 		 * @param string|null      $query_type current rendering context. similar to WP_Query flags (home, archive, author, post)

@@ -30,7 +30,7 @@ namespace Twitter\Cards;
  *
  * @since 1.0.0
  *
- * @link https://dev.twitter.com/docs/cards/types/summary-card Twitter Summary Card
+ * @link https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary Twitter Summary Card
  */
 class Summary extends Card
 {

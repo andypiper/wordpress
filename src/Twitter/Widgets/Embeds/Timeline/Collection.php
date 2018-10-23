@@ -102,7 +102,7 @@ class Collection extends \Twitter\Widgets\Embeds\Timeline
      *
      * @since 2.0.0
      *
-     * @link https://dev.twitter.com/overview/api/twitter-ids-json-and-snowflake
+     * @link https://developer.twitter.com/en/docs/basics/twitter-ids
      *
      * @param string $id snowflake ID
      *

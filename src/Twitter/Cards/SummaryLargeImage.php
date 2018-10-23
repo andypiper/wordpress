@@ -30,7 +30,7 @@ namespace Twitter\Cards;
  *
  * @since 1.0.0
  *
- * @link https://dev.twitter.com/cards/types/summary-large-image
+ * @link https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/summary-card-with-large-image
  */
 class SummaryLargeImage extends Summary
 {

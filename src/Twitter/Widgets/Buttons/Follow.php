@@ -30,7 +30,7 @@ namespace Twitter\Widgets\Buttons;
  *
  * @since 1.0.0
  *
- * @link https://dev.twitter.com/web/follow-button Follow button documentation
+ * @link https://developer.twitter.com/en/docs/twitter-for-websites/follow-button/overview Follow button documentation
  */
 class Follow extends \Twitter\Widgets\Base
 {

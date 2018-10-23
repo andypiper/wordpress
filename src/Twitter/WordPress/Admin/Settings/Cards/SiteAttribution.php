@@ -235,7 +235,7 @@ class SiteAttribution implements \Twitter\WordPress\Admin\Settings\SettingsSecti
 			return;
 		}
 
-		$content = '<p>' . sprintf( esc_html( __( 'Site attribution is used to attribute site content to a Twitter account in %1$s and %2$s.', 'twitter' ) ), '<a href="' . esc_url( 'https://dev.twitter.com/cards/overview', array( 'https', 'http' ) ) . '">' . esc_html( __( 'Twitter Cards', 'twitter' ) ) . '</a>', '<a href="' . esc_url( 'https://support.twitter.com/articles/20170934-twitter-card-analytics-dashboard', array( 'https', 'http' ) ) . '">' . esc_html( __( 'Twitter Analytics', 'twitter' ) ) . '</a>' ) . '</p>';
+		$content = '<p>' . sprintf( esc_html( __( 'Site attribution is used to attribute site content to a Twitter account in %1$s and %2$s.', 'twitter' ) ), '<a href="' . esc_url( 'https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards', array( 'https', 'http' ) ) . '">' . esc_html( __( 'Twitter Cards', 'twitter' ) ) . '</a>', '<a href="' . esc_url( 'https://business.twitter.com/en/help/campaign-measurement-and-analytics/twitter-card-analytics-dashboard.html', array( 'https', 'http' ) ) . '">' . esc_html( __( 'Twitter Analytics', 'twitter' ) ) . '</a>' ) . '</p>';
 		$content .= '<p>' . esc_html( __( 'The account may also be used to note a Tweet originated from a Tweet Button on your site.', 'twitter' ) ) . '</p>';
 
 		$screen->add_help_tab( array(

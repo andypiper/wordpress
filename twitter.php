@@ -32,7 +32,7 @@ Plugin URI:  https://wordpress.org/plugins/twitter/
 Description: Official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. Requires PHP 5.4 or greater.
 Version:     2.0.3
 Author:      Twitter
-Author URI:  https://dev.twitter.com/
+Author URI:  https://developer.twitter.com/
 License:     MIT
 Text Domain: twitter
 */

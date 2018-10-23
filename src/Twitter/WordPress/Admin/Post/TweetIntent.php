@@ -97,7 +97,7 @@ class TweetIntent
 	 *
 	 * @since 1.0.0
 	 *
-	 * @see https://dev.twitter.com/rest/reference/get/help/configuration
+	 * @see https://developer.twitter.com/en/docs/developer-utilities/configuration/api-reference/get-help-configuration
 	 *
 	 * @return object object with short_url_length and optional short_url_length_https properties
 	 */
