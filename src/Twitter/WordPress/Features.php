@@ -35,11 +35,11 @@ class Features
 	/**
 	 * Describe webpage content to Twitter
 	 *
-	 * Twitter Cards describes a webpage using Twitter-specific HTML meta elements. Populate a link preview for URLs shared on Twitter, attribute content to a site and author Twitter account, and deeplink into the equivalent view in your iOS or Android apps.
+	 * Twitter Cards describe a webpage using Twitter-specific HTML meta elements. Populate a link preview for URLs shared on Twitter, attribute content to a site and author Twitter account, and deeplink into the equivalent view in your iOS or Android apps.
 	 *
 	 * @since 1.3.0
 	 *
-	 * @link https://dev.twitter.com/cards/overview Twitter Cards
+	 * @link https://developer.twitter.com/en/docs/tweets/optimize-with-cards Twitter Cards
 	 *
 	 * @type string
 	 */
@@ -50,18 +50,18 @@ class Features
 	 *
 	 * @since 1.3.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-tweets Embedded Tweet
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview Embedded Tweet
 	 *
 	 * @type string
 	 */
 	const EMBED_TWEET = 'embed-tweet';
 
 	/**
-	 * Embed a single Tweet with a video template using a shortcode
+	 * Embed a single Tweet with a video using a shortcode
 	 *
 	 * @since 1.3.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-video Embedded Video
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview Embedded Video
 	 *
 	 * @type string
 	 */
@@ -83,7 +83,7 @@ class Features
 	 *
 	 * @since 2.0.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-timelines/user Embedded Profile Timeline
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/profile-timeline Embedded Profile Timeline
 	 *
 	 * @type string
 	 */
@@ -94,7 +94,7 @@ class Features
 	 *
 	 * @since 2.0.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-timelines/list Embedded List Timeline
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/list-timeline Embedded List Timeline
 	 *
 	 * @type string
 	 */
@@ -116,18 +116,18 @@ class Features
 	 *
 	 * @since 2.0.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-timelines/collection Embedded Collection
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/collection Embedded Collection
 	 *
 	 * @type string
 	 */
 	const EMBED_COLLECTION = 'embed-collection';
 
 	/**
-	 * Embed multiple Tweets in a vertical format by URL or shortcode
+	 * Embed multiple Tweets in a grid format by URL or shortcode
 	 *
 	 * @since 2.0.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-timelines/collection Embedded Collection
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/timelines/guides/collection Embedded Collection
 	 *
 	 * @type string
 	 */
@@ -138,7 +138,7 @@ class Features
 	 *
 	 * @since 1.3.0
 	 *
-	 * @link https://dev.twitter.com/web/embedded-moments Embedded Moment
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/moments/overview Embedded Moment
 	 *
 	 * @type string
 	 */
@@ -149,7 +149,7 @@ class Features
 	 *
 	 * @since 1.3.0
 	 *
-	 * @link https://dev.twitter.com/web/follow-button Follow Button
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/follow-button/overview Follow Button
 	 *
 	 * @type string
 	 */
@@ -160,7 +160,7 @@ class Features
 	 *
 	 * @since 1.3.0
 	 *
-	 * @link https://dev.twitter.com/web/tweet-button Tweet Button
+	 * @link https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/overview Tweet Button
 	 *
 	 * @type string
 	 */
@@ -204,7 +204,7 @@ class Features
 	public static $features = array(
 		self::CARDS                 => true, // Twitter Cards
 		self::EMBED_TWEET           => true, // single Tweet
-		self::EMBED_TWEET_VIDEO     => true, // single Tweet with video-specific display template
+		self::EMBED_TWEET_VIDEO     => true, // single Tweet with video
 		self::EMBED_VINE            => true, // single Vine
 		self::EMBED_PROFILE         => true, // Twitter profile
 		self::EMBED_LIST            => true, // Twitter List
